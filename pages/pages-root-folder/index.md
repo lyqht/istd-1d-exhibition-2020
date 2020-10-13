@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_leaf.jpg
+  image_fullwidth: concrete-texture.jpg
 widget1:
   title: "About the Exhibition"
   url: /info/
