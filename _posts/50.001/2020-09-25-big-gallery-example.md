@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title: "Test Project"
-subheadline: "Multi-Device Layouts"
-teaser: "The full-width page format gives you all the space you need to show your content using the grid."
+title: "Q"
+subheadline: "Big Gallery Layout example. Estee's 1D 50.001 Project"
+teaser: "Big Gallery Layout example."
 header:
   image_fullwidth: header_unsplash_leaf.jpg
 tags:
@@ -10,16 +10,18 @@ tags:
 categories:
   - infosys
   - design
-related_image: header_unsplash_leaf.jpg
+related_image: "50.001/Q-cropped.png"
 ---
 
-_Feeling Responsive_ is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing beautiful layouts][1] in the foundation documentation.
+Find out more about the project <a href="https://github.com/lyqht/Q" target="_blank">here</a>!
 
-<!--more-->
+<p>
+Images in the gallery are recommended to be of dimension in multiples of 141x79. Otherwise you would notice that they run out of alignment.
 
+</p>
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+      <img src="{{ site.urlimg }}gallery-example-2.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
@@ -30,18 +32,16 @@ _Feeling Responsive_ is built on Foundation. And of course, we make use of the w
       <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
-</div><!-- /.row -->
+</div>
 
 <div class="row">
     <div class="medium-8 columns t30">
     <img src="{{ site.urlimg }}gallery-example-7.jpg" alt="">
-    </div><!-- /.medium-8.columns -->
+    </div>
 
     <div class="medium-4 columns t30">
       <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
       <img class="t30" src="{{ site.urlimg }}gallery-example-8.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
-</div><!-- /.row -->
-
-[1]: http://foundation.zurb.com/docs/components/grid.html
+</div>
