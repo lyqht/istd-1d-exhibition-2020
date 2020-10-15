@@ -45,7 +45,22 @@ img.project-image {
     object-fit: contain;
 }
 
+.frontpage-image {
+    max-height: 25vh;
+    object-fit: contain;
+    padding: 10px;
+    align-self: center;
+}
 
+.frontpage-widget {
+    place-items: center;
+    display: grid;
+    text-align: center;
+}
+
+.frontpage-widgets-container {
+    align-items: flex-end;
+}
 
 /* Navigation
 ------------------------------------------------------------------- */
@@ -275,7 +290,6 @@ img.project-image {
     text-decoration: none;
     color: $secondary-color;
   }
-
 
 
 /* Jump to top
