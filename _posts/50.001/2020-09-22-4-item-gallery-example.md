@@ -1,44 +1,31 @@
 ---
 layout: page-fullwidth
-title: "Test Project 2"
-subheadline: "Multi-Device Layouts"
-teaser: "The full-width page format gives you all the space you need to show your content using the grid."
+title: "Q duplicate"
+subheadline: "4-item gallery look. Screenshots of the app"
+teaser: "A 4-item gallery look"
 header:
-  image_fullwidth: header_unsplash_leaf.jpg
+  image_fullwidth: header_unsplash_4.jpg
 categories:
   - infosys
-related_image: header_unsplash_leaf.jpg
+related_image: header_unsplash_4.jpg
 ---
 
-_Feeling Responsive_ is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing beautiful layouts][1] in the foundation documentation.
-
-<!--more-->
+Some description here!
 
 <div class="row">
-    <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+    <div class="medium-3 columns t30">
+      <img src="{{ site.urlimg }}50.001/Q-screenshot1.png" alt="">
     </div><!-- /.medium-4.columns -->
 
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
+    <div class="medium-3 columns t30">
+      <img src="{{ site.urlimg }}50.001/Q-screenshot2.png" alt="">
     </div><!-- /.medium-4.columns -->
 
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
+    <div class="medium-3 columns t30">
+      <img src="{{ site.urlimg }}50.001/Q-screenshot3.png" alt="">
+    </div><!-- /.medium-4.columns -->
+    <div class="medium-3 columns t30">
+      <img src="{{ site.urlimg }}50.001/Q-screenshot4.png" alt="">
     </div><!-- /.medium-4.columns -->
 
-</div><!-- /.row -->
-
-<div class="row">
-    <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-7.jpg" alt="">
-    </div><!-- /.medium-8.columns -->
-
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}gallery-example-8.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
-</div><!-- /.row -->
-
-[1]: http://foundation.zurb.com/docs/components/grid.html
+</div>

@@ -25,7 +25,7 @@ Example
       <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
-</div><!-- /.row -->
+</div>
 
 
 [1]: http://foundation.zurb.com/docs/components/grid.html
