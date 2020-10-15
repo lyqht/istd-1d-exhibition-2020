@@ -40,6 +40,11 @@ body.video cite a, { color: #fff; }
 body.video cite a:visited, { color: #fff; }
 body.video cite { color: #fff; }
 
+img.project-image {
+    max-height: 20vh;
+    object-fit: contain;
+}
+
 
 
 /* Navigation

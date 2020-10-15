@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: video
 title: "Q"
 subheadline: "Big Gallery Layout example. Estee's 1D 50.001 Project"
 teaser: "Big Gallery Layout example."
@@ -11,6 +11,7 @@ categories:
   - infosys
   - design
 related_image: "50.001/Q-cropped.png"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
 ---
 
 Find out more about the project <a href="https://github.com/lyqht/Q" target="_blank">here</a>!
