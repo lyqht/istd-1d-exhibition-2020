@@ -40,7 +40,26 @@ body.video cite a, { color: #fff; }
 body.video cite a:visited, { color: #fff; }
 body.video cite { color: #fff; }
 
+img.project-image {
+    object-fit: contain;
+}
 
+.frontpage-image {
+    max-height: 25vh;
+    object-fit: contain;
+    padding: 10px;
+    align-self: center;
+}
+
+.frontpage-widget {
+    place-items: center;
+    display: grid;
+    text-align: center;
+}
+
+.frontpage-widgets-container {
+    align-items: flex-end;
+}
 
 /* Navigation
 ------------------------------------------------------------------- */
@@ -89,6 +108,14 @@ body.video cite { color: #fff; }
     margin-top: 60px;
 }
 
+.main-logo {
+    -webkit-filter: drop-shadow(0px 1px 4px #fff);
+	-webkit-transition: all 0.5s linear;
+	-o-transition: all 0.5s linear;
+    transition: all 0.5s linear;
+    filter: drop-shadow(0px 1px 4px #fff);
+}
+
 /* Masthead › small-only
 ------------------------------------------------------------------- */
 
@@ -113,6 +140,11 @@ body.video cite { color: #fff; }
     #masthead-no-image-header {
         display: none;
     }
+
+    .backstretch>img {
+        opacity: 1;
+        transition: all 0.5s linear;
+    }
 }
 
 
@@ -135,6 +167,11 @@ body.video cite { color: #fff; }
     #masthead-with-text {
         padding: 60px 0;
         height: 300px;
+    }
+
+    .backstretch>img {
+        opacity: 0.3;
+        transition: all 0.5s linear;
     }
 }
 
@@ -159,6 +196,11 @@ body.video cite { color: #fff; }
         height: 330px;
         padding: 60px 0;
     }
+
+    .backstretch>img {
+        opacity: 0.3;
+        transition: all 0.5s linear;
+    }
 }
 
 
@@ -181,6 +223,11 @@ body.video cite { color: #fff; }
     #masthead-with-text {
         padding: 95px 0;
         height: 400px;
+    }
+
+    .backstretch>img {
+        opacity: 0.3;
+        transition: all 0.5s linear;
     }
 }
 
@@ -242,7 +289,6 @@ body.video cite { color: #fff; }
     text-decoration: none;
     color: $secondary-color;
   }
-
 
 
 /* Jump to top

@@ -7,7 +7,8 @@ header:
   image_fullwidth: header_unsplash_leaf.jpg
 categories:
   - compstruct
-related_image: header_unsplash_leaf.jpg
+  - highlights
+related_image: header_unsplash_6.jpg
 ---
 
 _Feeling Responsive_ is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing beautiful layouts][1] in the foundation documentation.
