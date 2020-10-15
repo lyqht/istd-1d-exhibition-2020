@@ -1,12 +1,13 @@
 ---
 layout: page-fullwidth
 title: "Test Project 2"
-subheadline: "Multi-Device Layouts"
+subheadline: "Unknown"
 teaser: "The full-width page format gives you all the space you need to show your content using the grid."
 header:
   image_fullwidth: header_unsplash_leaf.jpg
 categories:
   - compstruct
+  - highlights
 related_image: header_unsplash_leaf.jpg
 ---
 

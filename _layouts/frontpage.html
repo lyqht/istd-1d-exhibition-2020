@@ -40,13 +40,13 @@ format: frontpage
         <h1>Project Highlights</h1>
         <div>
             {% for post in site.categories.highlights %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
-                        <div class="meduim-2 columns t10">
-                        <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
-                            <img src="{{ site.url }}{{ site.baseurl }}/images/{{post.related_image}}" />
-                            <h5>{{post.title}}</h5>
-                            <p>{{post.subheadline}}</p>
-                        </a>
+                {% assign mod3 = forloop.index | modulo: 2 %}
+                        <div class="medium-6 columns t10">
+                            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
+                                <img style="height: 100%; width: 100%" src="{{ site.url }}{{ site.baseurl }}/images/{{post.related_image}}" />
+                                <h5>{{post.title}}</h5>
+                                <p>{{post.subheadline}}</p>
+                            </a>
                         </div>
 
                         {% if mod3 == 0 or forloop.index == site.categories.highlights.size %}
