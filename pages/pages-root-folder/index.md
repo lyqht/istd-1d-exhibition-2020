@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: concrete-texture.jpg
+  image_fullwidth: white_bg.webp
 widget1:
   title: "About the Exhibition"
   url: /info/
