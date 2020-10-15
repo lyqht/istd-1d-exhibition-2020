@@ -7,6 +7,7 @@ tags:
     - post format
 categories:
     - infosys
+    - highlights
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/H_8wN2Vg0JE' frameborder='0' allowfullscreen></iframe>"
 related_image: "50.001/Q-cropped.png"
 #
@@ -28,9 +29,13 @@ video:
 
 ### Description
 
-Find out more about the project <a href="https://github.com/lyqht/Q" target="_blank">here</a>!
+Find out more about the project <a href="https://github.com/lyqht/-Eternite-" target="_blank">here</a>!
 
-### Images
+### Poster
+
+<img src="https://raw.githubusercontent.com/lyqht/-Eternite-/master/Game%20Poster.jpg" style="width: 100%; height: auto;" />
+
+### Misc Images
 
 <div class="row">
     <div class="medium-4 columns t30">
