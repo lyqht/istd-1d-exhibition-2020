@@ -7,7 +7,7 @@ tags:
     - post format
 categories:
     - compstruct
-iframe: <iframe src="https://drive.google.com/file/d/1DhpchIC-cTxzNvRRuQAi-AypfmuM-7AC/preview" width="640" height="480"></iframe>
+iframe: <iframe src="https://drive.google.com/file/d/1DhpchIC-cTxzNvRRuQAi-AypfmuM-7AC/preview" width="100%" height="480"></iframe>
 related_image: https://drive.google.com/thumbnail?authuser=0&id=1O5ICeDG5gmOMLyeGKvOjd0YTKVkngKmU&sz=w300-h300-p-k-nu-iv1
 ---
 
@@ -20,4 +20,4 @@ In the game, blocks of either red or blue colour will fall from the top of the s
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1O5ICeDG5gmOMLyeGKvOjd0YTKVkngKmU/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1O5ICeDG5gmOMLyeGKvOjd0YTKVkngKmU/preview" width="100%" height="480"></iframe>

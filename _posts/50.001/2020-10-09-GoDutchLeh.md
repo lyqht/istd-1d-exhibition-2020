@@ -17,4 +17,4 @@ GoDutchLeh is a smartphone app that consolidates and optimises all your bill spl
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1R1JYRjsLJzyYh-wpuHHjij26fcwQ9R_5/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1R1JYRjsLJzyYh-wpuHHjij26fcwQ9R_5/preview" width="100%" height="480"></iframe>

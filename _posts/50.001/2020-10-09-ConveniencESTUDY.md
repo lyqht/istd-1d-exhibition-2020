@@ -31,4 +31,4 @@ Users firstly have to sign up in this app according to their identity eg. instru
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1dVrhpptu8xpMVtpMWC0p8JmCoNkZdKZ6/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1dVrhpptu8xpMVtpMWC0p8JmCoNkZdKZ6/preview" width="100%" height="480"></iframe>

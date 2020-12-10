@@ -7,7 +7,7 @@ tags:
     - post format
 categories:
     - compstruct
-iframe: <iframe src="https://drive.google.com/file/d/101WSFZiwxouKoU9jjpfWPWnS1RrsHMEI/preview" width="640" height="480"></iframe>
+iframe: <iframe src="https://drive.google.com/file/d/101WSFZiwxouKoU9jjpfWPWnS1RrsHMEI/preview" width="100%" height="480"></iframe>
 related_image: https://drive.google.com/thumbnail?authuser=0&id=1RpdUpbxe9P4KnfWHMqVV8U0dU1vRImOs&sz=w300-h300-p-k-nu-iv1
 ---
 
@@ -18,4 +18,4 @@ Fire in the Mole is a unique take on the classic arcade game, Whac-A-Mole. The m
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1RpdUpbxe9P4KnfWHMqVV8U0dU1vRImOs/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1RpdUpbxe9P4KnfWHMqVV8U0dU1vRImOs/preview" width="100%" height="480"></iframe>

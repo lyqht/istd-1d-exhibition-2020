@@ -7,7 +7,7 @@ tags:
     - post format
 categories:
     - compstruct
-iframe: <iframe src="https://drive.google.com/file/d/1x5zymuRve-o0IGtx9nbsiynH_O5dLdeH/preview" width="640" height="480"></iframe>
+iframe: <iframe src="https://drive.google.com/file/d/1x5zymuRve-o0IGtx9nbsiynH_O5dLdeH/preview" width="100%" height="480"></iframe>
 related_image: https://drive.google.com/thumbnail?authuser=0&id=1DT0usmS_QCT-E6B95ebtGLsrNZFGuHdR&sz=w300-h300-p-k-nu-iv1
 ---
 
@@ -17,4 +17,4 @@ It was observed that a couple of students in secondary school struggle with inte
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1DT0usmS_QCT-E6B95ebtGLsrNZFGuHdR/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1DT0usmS_QCT-E6B95ebtGLsrNZFGuHdR/preview" width="100%" height="480"></iframe>

@@ -31,4 +31,4 @@ VendAssist allows the users to browse through the items offered by the vending m
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1SoNPVEO1X3DA5OxmLNX8SmUntCwT5Q0D/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1SoNPVEO1X3DA5OxmLNX8SmUntCwT5Q0D/preview" width="100%" height="480"></iframe>

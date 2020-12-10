@@ -35,4 +35,4 @@ These features aim to make finance tracking a much more convenient, quick and in
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1Tr-xz8QmXDYZwJECqkMsmsZ_A2tk-aaC/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1Tr-xz8QmXDYZwJECqkMsmsZ_A2tk-aaC/preview" width="100%" height="480"></iframe>

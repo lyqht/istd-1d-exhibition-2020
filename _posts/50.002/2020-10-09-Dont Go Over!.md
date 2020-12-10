@@ -7,7 +7,7 @@ tags:
     - post format
 categories:
     - compstruct
-iframe: <iframe src="https://drive.google.com/file/d/1LGagjv4CI2zBauEdMs8FUvS3kvI42dwZ/preview" width="640" height="480"></iframe>
+iframe: <iframe src="https://drive.google.com/file/d/1LGagjv4CI2zBauEdMs8FUvS3kvI42dwZ/preview" width="100%" height="480"></iframe>
 related_image: https://drive.google.com/thumbnail?authuser=0&id=1DkkQwRG85Xd1PN5peyIacLwskeMrnaDc&sz=w300-h300-p-k-nu-iv1
 ---
 
@@ -31,4 +31,4 @@ The game is based on a current value and a target value (which is hardcoded). Pl
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1DkkQwRG85Xd1PN5peyIacLwskeMrnaDc/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1DkkQwRG85Xd1PN5peyIacLwskeMrnaDc/preview" width="100%" height="480"></iframe>

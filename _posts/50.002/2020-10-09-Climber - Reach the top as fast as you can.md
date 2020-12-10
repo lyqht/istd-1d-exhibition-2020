@@ -20,4 +20,4 @@ The climber is a 2-player fun, intuitive, and very competitive game. In Climber,
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1jVGGSL8T3LmwJ6v-Vlt9g-iZfXWRodwm/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1jVGGSL8T3LmwJ6v-Vlt9g-iZfXWRodwm/preview" width="100%" height="480"></iframe>

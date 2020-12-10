@@ -7,7 +7,7 @@ tags:
     - post format
 categories:
     - compstruct
-iframe: <iframe src="https://drive.google.com/file/d/1UAN0u-8MjwqCtCgZaqSbfsepfEZz0RQ0/preview" width="640" height="480"></iframe>
+iframe: <iframe src="https://drive.google.com/file/d/1UAN0u-8MjwqCtCgZaqSbfsepfEZz0RQ0/preview" width="100%" height="480"></iframe>
 related_image: https://drive.google.com/thumbnail?authuser=0&id=1W2XACVnPq_Ob5Vdiicr2yrMlxDuAdyzt&sz=w300-h300-p-k-nu-iv1
 ---
 
@@ -31,4 +31,4 @@ The aim of the game is to allow players to improve their memory, develop strateg
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1W2XACVnPq_Ob5Vdiicr2yrMlxDuAdyzt/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1W2XACVnPq_Ob5Vdiicr2yrMlxDuAdyzt/preview" width="100%" height="480"></iframe>

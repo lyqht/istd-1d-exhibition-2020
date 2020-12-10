@@ -7,7 +7,7 @@ tags:
     - post format
 categories:
     - compstruct
-iframe: <iframe src="https://drive.google.com/file/d/1bZlM1VWXbhYgAp0GCzmM2rSuABeBbWjW/preview" width="640" height="480"></iframe>
+iframe: <iframe src="https://drive.google.com/file/d/1bZlM1VWXbhYgAp0GCzmM2rSuABeBbWjW/preview" width="100%" height="480"></iframe>
 related_image: https://drive.google.com/thumbnail?authuser=0&id=1tGE_pB1u7rSf7KXnhqbutmq4Lpnv2un8&sz=w300-h300-p-k-nu-iv1
 ---
 
@@ -31,4 +31,4 @@ The player has 125 seconds to complete the game, and the player’s current heal
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1tGE_pB1u7rSf7KXnhqbutmq4Lpnv2un8/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1tGE_pB1u7rSf7KXnhqbutmq4Lpnv2un8/preview" width="100%" height="480"></iframe>

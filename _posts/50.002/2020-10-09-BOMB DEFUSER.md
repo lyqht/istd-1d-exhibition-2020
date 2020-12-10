@@ -7,7 +7,7 @@ tags:
     - post format
 categories:
     - compstruct
-iframe: <iframe src="https://drive.google.com/file/d/18Jl9h2j16H73xXP-C5PpE5PDJ-HnsMqt/preview" width="640" height="480"></iframe>
+iframe: <iframe src="https://drive.google.com/file/d/18Jl9h2j16H73xXP-C5PpE5PDJ-HnsMqt/preview" width="100%" height="480"></iframe>
 related_image: https://drive.google.com/thumbnail?authuser=0&id=1HSsg_i338_Ny1hIA_6PPQIkmNQzhSeBv&sz=w300-h300-p-k-nu-iv1
 ---
 
@@ -37,4 +37,4 @@ Detailed information on the implementation of our game can be found on the poste
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1HSsg_i338_Ny1hIA_6PPQIkmNQzhSeBv/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1HSsg_i338_Ny1hIA_6PPQIkmNQzhSeBv/preview" width="100%" height="480"></iframe>

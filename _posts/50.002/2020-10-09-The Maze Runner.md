@@ -26,4 +26,4 @@ The aim of the game is to survive for as long as possible without colliding with
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1gN5cbAnpy3zXGRivcskqOAc6EH1jcOa3/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1gN5cbAnpy3zXGRivcskqOAc6EH1jcOa3/preview" width="100%" height="480"></iframe>

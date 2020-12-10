@@ -29,4 +29,4 @@ SnapTrack is an NFC-based, all-encompassing, no-nonsense companion that empowers
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1p99213OMvVg0AsWXr6lF5pYQEQHH9f_4/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1p99213OMvVg0AsWXr6lF5pYQEQHH9f_4/preview" width="100%" height="480"></iframe>

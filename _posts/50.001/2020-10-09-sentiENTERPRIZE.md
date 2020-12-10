@@ -29,4 +29,4 @@ Are you an SME looking to cut costs on ERP (enterprise resource planning)? Look 
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1J_hy_TIJ1qfuh43HxnVT7BnX8ILVKOpr/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1J_hy_TIJ1qfuh43HxnVT7BnX8ILVKOpr/preview" width="100%" height="480"></iframe>

@@ -7,7 +7,7 @@ tags:
     - post format
 categories:
     - compstruct
-iframe: <iframe src="https://drive.google.com/file/d/1HfrBCH7uTQqUaJY4EPn9_1SWUCAq7Ymk/preview" width="640" height="480"></iframe>
+iframe: <iframe src="https://drive.google.com/file/d/1HfrBCH7uTQqUaJY4EPn9_1SWUCAq7Ymk/preview" width="100%" height="480"></iframe>
 related_image: https://drive.google.com/thumbnail?authuser=0&id=1nhzQV31dQ_X68X3JjRX7OZbnvq0kmyDY&sz=w300-h300-p-k-nu-iv1
 ---
 
@@ -23,4 +23,4 @@ Points in our game represent fingers in the actual game. This is a base 5 game, 
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1nhzQV31dQ_X68X3JjRX7OZbnvq0kmyDY/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1nhzQV31dQ_X68X3JjRX7OZbnvq0kmyDY/preview" width="100%" height="480"></iframe>

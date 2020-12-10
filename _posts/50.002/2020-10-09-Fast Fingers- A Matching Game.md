@@ -7,7 +7,7 @@ tags:
     - post format
 categories:
     - compstruct
-iframe: <iframe src="https://drive.google.com/file/d/1KZVyzvaTV-_163gIDOYWM9ZJSV-CoaTs/preview" width="640" height="480"></iframe>
+iframe: <iframe src="https://drive.google.com/file/d/1KZVyzvaTV-_163gIDOYWM9ZJSV-CoaTs/preview" width="100%" height="480"></iframe>
 related_image: https://drive.google.com/thumbnail?authuser=0&id=1Cuq0W-FopY01BbX7RLJHFskzxJWa5jtI&sz=w300-h300-p-k-nu-iv1
 ---
 
@@ -27,4 +27,4 @@ We have built an arcadeesque game whereby two players will compete against each 
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1Cuq0W-FopY01BbX7RLJHFskzxJWa5jtI/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1Cuq0W-FopY01BbX7RLJHFskzxJWa5jtI/preview" width="100%" height="480"></iframe>

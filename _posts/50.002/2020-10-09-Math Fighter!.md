@@ -7,7 +7,7 @@ tags:
     - post format
 categories:
     - compstruct
-iframe: <iframe src="https://drive.google.com/file/d/1_CtmqqkBOrFKm1_gewncKr1jvC6hXYP1/preview" width="640" height="480"></iframe>
+iframe: <iframe src="https://drive.google.com/file/d/1_CtmqqkBOrFKm1_gewncKr1jvC6hXYP1/preview" width="100%" height="480"></iframe>
 related_image: https://drive.google.com/thumbnail?authuser=0&id=16kNJwC3UoCwe27BAUHPue0W-n3lZpfdZ&sz=w300-h300-p-k-nu-iv1
 ---
 
@@ -17,4 +17,4 @@ Battle Math! is a street-fighter inspired multiplayer math/logic game, where you
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/16kNJwC3UoCwe27BAUHPue0W-n3lZpfdZ/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/16kNJwC3UoCwe27BAUHPue0W-n3lZpfdZ/preview" width="100%" height="480"></iframe>

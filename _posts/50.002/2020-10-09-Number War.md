@@ -7,7 +7,7 @@ tags:
     - post format
 categories:
     - compstruct
-iframe: <iframe src="https://drive.google.com/file/d/13J6aEX2b6CbD65QvaikSV4gBGPKypXfk/preview" width="640" height="480"></iframe>
+iframe: <iframe src="https://drive.google.com/file/d/13J6aEX2b6CbD65QvaikSV4gBGPKypXfk/preview" width="100%" height="480"></iframe>
 related_image: https://drive.google.com/thumbnail?authuser=0&id=197SLlXVqC8oCbxJAPz_Kv43k134-0sD3&sz=w300-h300-p-k-nu-iv1
 ---
 
@@ -27,4 +27,4 @@ This allows for strategic thinking and memory work and outplaying, and perhaps a
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/197SLlXVqC8oCbxJAPz_Kv43k134-0sD3/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/197SLlXVqC8oCbxJAPz_Kv43k134-0sD3/preview" width="100%" height="480"></iframe>

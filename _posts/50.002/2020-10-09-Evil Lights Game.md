@@ -7,7 +7,7 @@ tags:
     - post format
 categories:
     - compstruct
-iframe: <iframe src="https://drive.google.com/file/d/1PNPNWyqLWX1CB9A2rGXDBD0WbWuKxnTX/preview" width="640" height="480"></iframe>
+iframe: <iframe src="https://drive.google.com/file/d/1PNPNWyqLWX1CB9A2rGXDBD0WbWuKxnTX/preview" width="100%" height="480"></iframe>
 related_image: https://drive.google.com/thumbnail?authuser=0&id=14u8h-iIZ4h1m6l6aZvdy5QnwvNtuu7c7&sz=w300-h300-p-k-nu-iv1
 ---
 
@@ -32,4 +32,4 @@ Warning!! If you press more than 1 button at the same time, the other player wil
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/14u8h-iIZ4h1m6l6aZvdy5QnwvNtuu7c7/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/14u8h-iIZ4h1m6l6aZvdy5QnwvNtuu7c7/preview" width="100%" height="480"></iframe>

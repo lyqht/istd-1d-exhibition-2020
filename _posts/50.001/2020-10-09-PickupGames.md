@@ -21,4 +21,4 @@ PUG draws inspiration from the kampung spirit in Singapore, fostering a communit
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/1oNA5sokN6cLGkOkfuLj3XYkJw8MM5F1Z/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1oNA5sokN6cLGkOkfuLj3XYkJw8MM5F1Z/preview" width="100%" height="480"></iframe>

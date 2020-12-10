@@ -29,4 +29,4 @@ Both students and staff can use the Poke function to prompt borrowers to return 
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/125ufo_ijD3Chh5ZTHw2AfmhwzKMnVQxq/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/125ufo_ijD3Chh5ZTHw2AfmhwzKMnVQxq/preview" width="100%" height="480"></iframe>

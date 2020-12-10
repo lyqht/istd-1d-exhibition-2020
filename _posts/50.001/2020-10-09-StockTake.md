@@ -19,4 +19,4 @@ StockTake is an inventory management app aimed to help student organizations man
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/15X-K8eAXATzDcGs5i8Wzz-OgtUQv4Dtq/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/15X-K8eAXATzDcGs5i8Wzz-OgtUQv4Dtq/preview" width="100%" height="480"></iframe>

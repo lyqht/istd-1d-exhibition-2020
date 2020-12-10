@@ -33,4 +33,4 @@ Additional features include Google Calendar integration, helpful links to SUTD p
 
 ### Poster
 
-<iframe src="https://drive.google.com/file/d/15CgHPcYu5s0SG4XUlSX_DW_I0e7Z4V0v/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/15CgHPcYu5s0SG4XUlSX_DW_I0e7Z4V0v/preview" width="100%" height="480"></iframe>
