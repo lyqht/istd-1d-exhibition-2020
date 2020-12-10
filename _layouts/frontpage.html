@@ -43,7 +43,7 @@ format: frontpage
                 {% assign mod3 = forloop.index | modulo: 2 %}
                         <div class="medium-6 columns t10">
                             <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
-                                <img style="height: 100%; width: 100%" src="{{ site.url }}{{ site.baseurl }}/images/{{post.related_image}}" />
+                                <img style="height: 100%; width: 100%" src="{{post.related_image}}" />
                                 <h5>{{post.title}}</h5>
                                 <p>{{post.subheadline}}</p>
                             </a>
