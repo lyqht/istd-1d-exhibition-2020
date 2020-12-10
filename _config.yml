@@ -25,8 +25,8 @@ author: lyqht
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: "https://lyqht.github.io"
-baseurl: "/istd-1d-exhibition-2020"
+url: "https://lyqht.github.io/istd-1d-exhibition-2020"
+baseurl: ""
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
