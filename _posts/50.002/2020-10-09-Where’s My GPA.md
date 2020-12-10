@@ -8,7 +8,7 @@ tags:
 categories:
     - compstruct
 iframe: --https://drive.google.com/file/d/10O_hkHZ0gaEqjc_FJOaUkOn38aqOwgAU/preview" width="640" height="480"></iframe>
-related_image: https://lh3.google.com/u/0/d/1nfnRFRDh66hp304meRX6QTAlts1FVUD3=w300-h300-p-k-nu-iv1
+related_image: https://drive.google.com/thumbnail?authuser=0&id=1nfnRFRDh66hp304meRX6QTAlts1FVUD3&sz=w300-h300-p-k-nu-iv1
 ---
 
 ### Team Members

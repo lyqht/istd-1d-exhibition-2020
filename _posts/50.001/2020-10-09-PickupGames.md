@@ -8,7 +8,7 @@ tags:
 categories:
     - infosys
 iframe: <iframe src="https://drive.google.com/file/d/1XryfVp6MtvKx8gxwyovG4vjuYF_feVps/preview" width="320" height="240"></iframe>
-related_image: https://lh3.google.com/u/0/d/1oNA5sokN6cLGkOkfuLj3XYkJw8MM5F1Z=w300-h300-p-k-nu-iv1
+related_image: https://drive.google.com/thumbnail?authuser=0&id=1oNA5sokN6cLGkOkfuLj3XYkJw8MM5F1Z&sz=w300-h300-p-k-nu-iv1
 ---
 
 ### Description

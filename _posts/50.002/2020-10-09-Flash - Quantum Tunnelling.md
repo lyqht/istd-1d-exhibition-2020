@@ -9,7 +9,7 @@ categories:
     - compstruct
     - highlights
 iframe: <iframe src="https://drive.google.com/file/d/1PNPNWyqLWX1CB9A2rGXDBD0WbWuKxnTX/preview" width="640" height="480"></iframe>
-related_image: https://lh3.google.com/u/0/d/105UDfbPor9SdHv5t9tRpNuVH5dA7_Ecm=w300-h300-p-k-nu-iv1
+related_image: https://drive.google.com/thumbnail?authuser=0&id=105UDfbPor9SdHv5t9tRpNuVH5dA7_Ecm&sz=w300-h300-p-k-nu-iv1
 ---
 
 ### Team Members

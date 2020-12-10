@@ -8,7 +8,7 @@ tags:
 categories:
     - compstruct
 iframe: <iframe src="https://drive.google.com/file/d/1HfrBCH7uTQqUaJY4EPn9_1SWUCAq7Ymk/preview" width="640" height="480"></iframe>
-related_image: https://lh3.google.com/u/0/d/1nhzQV31dQ_X68X3JjRX7OZbnvq0kmyDY=w300-h300-p-k-nu-iv1
+related_image: https://drive.google.com/thumbnail?authuser=0&id=1nhzQV31dQ_X68X3JjRX7OZbnvq0kmyDY&sz=w300-h300-p-k-nu-iv1
 ---
 
   

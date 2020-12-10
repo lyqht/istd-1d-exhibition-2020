@@ -8,7 +8,7 @@ tags:
 categories:
     - infosys
 iframe: <iframe src="https://drive.google.com/file/d/1QkQrEWVUyahPUbSee7VoOHp74cqgEF1k/preview" width="320" height="240"></iframe>
-related_image: https://lh3.google.com/u/0/d/1J_hy_TIJ1qfuh43HxnVT7BnX8ILVKOpr=w300-h300-p-k-nu-iv1
+related_image: https://drive.google.com/thumbnail?authuser=0&id=1J_hy_TIJ1qfuh43HxnVT7BnX8ILVKOpr&sz=w300-h300-p-k-nu-iv1
 ---
 
 ### Team Members
