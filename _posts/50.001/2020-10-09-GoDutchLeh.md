@@ -2,7 +2,7 @@
 layout: video
 show_meta: false
 title: GoDutchLeh
-subheadline: 50.001 Team 2-6 [50.001]
+subheadline: 50.001 Team 2-6 
 tags:
     - post format
 categories:

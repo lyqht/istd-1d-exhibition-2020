@@ -2,7 +2,7 @@
 layout: video
 show_meta: false
 title: Rhy ♫ Pressed
-subheadline: 50.002 Team 02-3 [50.002]
+subheadline: 50.002 Team 02-3 
 tags:
     - post format
 categories:

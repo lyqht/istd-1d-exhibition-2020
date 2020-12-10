@@ -2,7 +2,7 @@
 layout: video
 show_meta: false
 title: Light Speed
-subheadline: 50.00A Team 02-4 [50.002]
+subheadline: 50.00A Team 02-4 
 tags:
     - post format
 categories:
