@@ -1,59 +1,69 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+title: "About the exhibition"
+subheadline: "More details about the projects"
 permalink: "/info/"
 header:
   image_fullwidth: "concrete-texture.jpg"
 ---
 
-...and learn at the same time.
+## 50.001 Introduction to Information Systems & Programming
 
-_Feeling Responsive_ is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – _hopefully_ – near future.
+### Faculty
 
-## Features
+<div class="medium-3 columns t30">
+  <figure>
+    <img class="project-image" src="https://istd.sutd.edu.sg/files/people-istd-faculty-norman-lee.jpg" alt="">
+    <figcaption>Norman Lee Tiong Seng (Senior Lecturer)</figcaption>
+  </figure>
+</div>
 
-- [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-- 100% GitHub Pages friendly
-- Easy editable navigation, footer and social media links
-- Language Ready – just translate one file.
-- Lots of possibilities to customize it to your needs
-- Lots of different headers
-- Various post formats to let your content shine
-- Uses Jekyll 3.0
-- Multiple possibilities to use images in different ways
-- Fine typography
-- Play Video and Audio with [Mediaelement.js][12]
+<div class="medium-3 columns t30">
+  <figure>
+    <img class="project-image" src="https://istd.sutd.edu.sg/files/people-istd-faculty-ngai-man-cheung.jpg" alt="">
+    <figcaption>Ngai-Man (Man) Cheung (Associate Professor)</figcaption>
+  </figure>
+</div>
+<div class="medium-3 columns t30" style="opacity:0;"><figure>
+    <img class="project-image" src="https://istd.sutd.edu.sg/files/people-istd-faculty-ngai-man-cheung.jpg" alt="">
+    <figcaption>Ngai-Man (Man) Cheung (Associate Professor)</figcaption>
+  </figure></div>
+<div class="medium-3 columns t30" style="opacity:0;"><figure>
+    <img class="project-image" src="https://istd.sutd.edu.sg/files/people-istd-faculty-ngai-man-cheung.jpg" alt="">
+    <figcaption>Ngai-Man (Man) Cheung (Associate Professor)</figcaption>
+  </figure></div>
 
-## I got inspired by...
+## 50.002 Computation Structures
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
+### Faculty
 
-Please make _Feeling Responsive_ yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
+<div class="medium-3 columns t30">
+  <figure>
+    <img class="project-image" src="https://istd.sutd.edu.sg/files/people-istd-faculty-oka-kurniawan.jpg" alt="">
+    <figcaption>Oka Kurniawan (Senior Lecturer)</figcaption>
+  </figure>
+</div>
 
-#### Since then, fork it!
+<div class="medium-3 columns t30">
+  <figure>
+    <img class="project-image" src="https://istd.sutd.edu.sg/files/istd-faculty-kenny-choo-2019.jpg" alt="">
+    <figcaption>Kenny Choo (Senior Lecturer)</figcaption>
+  </figure>
+</div>
 
-Yours sincerelly, [Moritz »mo.« Sauer][7]
+<div class="medium-3 columns t30">
+  <figure>
+    <img class="project-image" src="https://istd.sutd.edu.sg/files/people-istd-faculty-natalieagus.jpg" alt="">
+    <figcaption>Natalie Agus (Lecturer)</figcaption>
+  </figure>
+</div>
+<div class="medium-3 columns t30">
+  <figure>
+    <img class="project-image" src="https://istd.sutd.edu.sg/files/istd-faculty-matthieu-de-mari.jpg" alt="">
+    <figcaption>Mattheiu De Mari (Lecturer)</figcaption>
+  </figure>
+</div>
 
-[1]: http://mademistakes.com/about/
-[2]: http://mademistakes.com/work/jekyll-themes/
-[3]: http://automattic.com/
-[4]: http://alistapart.com/
-[5]: http://www.smashingmagazine.com/
-[6]: https://github.com/
-[7]: http://sauer.io
+### Project Description
 
-[8]: {{ site.url }}/design/gallery/
-[9]: {{ site.url }}/design/video/
-[10]: {{ site.url }}/design/grid/
-[11]: {{ site.url }}/design/typography/
-[12]: {{ site.url }}/design/mediaelement_js/
-[13]: #
-[14]: #
-[15]: #
-[16]: #
-[17]: #
-[18]: #
-[19]: #
-[20]: #
+Each year, all Sophomore ISTD students are tasked to create their very own electronic game from scratch. Students only use FPGA to build their prototypes, with no other microcontrollers allowed. They are tasked to be as creative as possible to design their datapath around a single 16-bit Arithmetic Logic Unit, and come up with a fully functional  yet fun electronic game hardware. This project is the ultimate test for their fundamentals on the architecture of digital systems, emphasising structural principles common to a wide range of technologies. At the end of the project, students are able to explain the fundamentals of modern operating systems and appreciate the technical skills necessary to be a capable digital systems engineer.
