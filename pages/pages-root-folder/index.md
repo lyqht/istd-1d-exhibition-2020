@@ -16,12 +16,12 @@ widget2:
   title: "50.001 Project Showcase"
   url: /50.001/
   image: project_icon.png
-  text: "Introduction to Information Systems and Technology (50.001). XXX Students, XXX Projects."
+  text: "Introduction to Information Systems and Technology. 32 Projects."
 widget3:
   title: "50.002 Project Showcase"
   url: /50.002/
   image: project_icon_2.png
-  text: "Computation Structures (50.002). XXX Students, XXX Projects."
+  text: "Computation Structures. 35 Projects."
 #
 # Use the call for action to show a button on the frontpage
 #
