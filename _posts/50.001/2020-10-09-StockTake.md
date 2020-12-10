@@ -7,6 +7,7 @@ tags:
     - post format
 categories:
     - infosys
+    - highlights
 iframe: <iframe src="https://drive.google.com/file/d/1uspoHKah-wlP7mAGR5qFZcWrbLkoOBll/preview" width="320" height="240"></iframe>
 related_image: https://lh3.google.com/u/0/d/15X-K8eAXATzDcGs5i8Wzz-OgtUQv4Dtq=w300-h300-p-k-nu-iv1
 ---
