@@ -7,8 +7,10 @@ tags:
     - post format
 categories:
     - compstruct
-iframe: <iframe src="" width="320" height="240"></iframe>
-related_image: https://drive.google.com/thumbnail?authuser=0&id=1l5aAPzOMjZDiNN8Krhh5hIpGPhch4hgl
+
+iframe: <iframe src="https://drive.google.com/file/d/1KucKDrOfNtKUbLuwrcWjeXBbuYlzvPQx/preview" width="100%" height="480"></iframe>
+related_image: https://drive.google.com/thumbnail?authuser=0&id=1jmaIRJoDSVZYY7-Embt3FlXbS55Zzdsa&sz=w300-h300-p-k-nu-iv1
+
 ---
 
 ### Team Members
@@ -36,3 +38,7 @@ The frame of our game console is made of plywood with various engravings such as
 On our design includes 3 LED buttons, a 32x8 cm LED strip for our main display. Attached to the surface of our frame also includes a 7-segment display for the game’s score, as well as 3 different coloured LED lights located on the top right to indicate the number of lives remaining.
 
 All of these components are wired through the surface of our frame and connected to the FPGA beneath the frame of our console.
+
+
+### Poster
+<iframe src="https://drive.google.com/file/d/1jmaIRJoDSVZYY7-Embt3FlXbS55Zzdsa/preview" width="100%" height="480"></iframe>

@@ -2,7 +2,7 @@
 layout: video
 show_meta: false
 title: Evil Lights Game
-subheadline: 50.002 Team 12-2 - Evil Lights Game
+subheadline: 50.002 Team 12-2
 tags:
     - post format
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: video
 show_meta: false
-title: Climber - Reach the top as fast as you can
+title: Climber
 subheadline: 50.002 Team 3-4
 tags:
     - post format
