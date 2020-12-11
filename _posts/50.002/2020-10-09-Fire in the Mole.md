@@ -11,6 +11,17 @@ iframe: <iframe src="https://drive.google.com/file/d/101WSFZiwxouKoU9jjpfWPWnS1R
 related_image: https://drive.google.com/thumbnail?authuser=0&id=1RpdUpbxe9P4KnfWHMqVV8U0dU1vRImOs&sz=w300-h300-p-k-nu-iv1
 ---
 
+### Team Members
+
+Kang Shaoquan
+
+Caryl Beatrice Aragon Peneyra
+
+Chong Wah Jin Brandon
+
+Poh Kia Wee
+
+Sherry Lee Pei Ching 
 
 ### Description
 
