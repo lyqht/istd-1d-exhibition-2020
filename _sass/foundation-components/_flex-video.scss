@@ -11,7 +11,7 @@ $include-html-media-classes: $include-html-classes !default;
 
 // We use these to control video container padding and margins
 $flex-video-padding-top: rem-calc(25) !default;
-$flex-video-padding-bottom: 67.5% !default;
+$flex-video-padding-bottom: 40% !default;
 $flex-video-margin-bottom: rem-calc(16) !default;
 
 // We use this to control widescreen bottom padding
@@ -37,8 +37,8 @@ $flex-video-widescreen-padding-bottom: 56.34% !default;
   embed,
   video {
     position: absolute;
-    top: 0;
-    #{$default-float}: 0;
+    top: 2vh;
+    padding-left: 0.5vw;
     width: 100%;
     height: 100%;
   }

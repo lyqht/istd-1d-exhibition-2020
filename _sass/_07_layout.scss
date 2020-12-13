@@ -24,7 +24,7 @@
 ------------------------------------------------------------------- */
 
 body.video,
-body.video #masthead-no-image-header { background: #000; }
+body.video #masthead-no-image-header { background: #fdfdfd; }
 body.video #masthead-no-image-header { margin-bottom: 60px; }
 body.video h1,
 body.video h2,
@@ -34,11 +34,16 @@ body.video h5,
 body.video h6,
 body.video p,
 body.video a,
+body.video li,
 body.video blockquote:before,
 body.video blockquote:after,
-body.video cite a, { color: #fff; }
-body.video cite a:visited, { color: #fff; }
-body.video cite { color: #fff; }
+body.video cite a, { color: #111; }
+body.video cite a:visited, { color: #111; }
+body.video cite { color: #111; }
+
+body.video li {
+    margin-left: 4px;
+}
 
 img.project-image {
     object-fit: contain;
