@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About the exhibition"
-subheadline: "More details about the projects"
+subheadline: "More details of the courses and the projects"
 permalink: "/info/"
 header:
   image_fullwidth: "concrete-texture.jpg"
