@@ -18,6 +18,6 @@ SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   json: 'https://lyqht.github.io/istd-1d-exhibition-2020/search.json',
-  searchResultTemplate: '<a href="{url}"><div style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); border: 1px solid; border-radius: 3px; padding: 3vw; margin: 2vh;"><p><h3>{title}</h3><p>{subheadline}</p><div><img src="{related_image}"></img></div></div></a>'
+  searchResultTemplate: '<div class="medium-4 columns t30"><a href="{url}"><img src="{related_image}" /><h5>{title}</h5> <p>{subheadline}</p></a></div>'
 })
 </script>
